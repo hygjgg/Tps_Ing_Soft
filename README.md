@@ -1,11 +1,11 @@
 # Trabajo Práctico: Patrones de Diseño I
 
-## 🎯 Objetivo del Proyecto
+## Objetivo del Proyecto
  El propósito principal es demostrar de manera práctica y conceptual la implementación de tres patrones de diseño fundamentales del catálogo de GoF (Gang of Four): **Singleton**, **Observer** y **Strategy**.
 
 ---
 
-## 🛠️ Patrones Implementados
+## Patrones Implementados
 
 ### 1. Patrón Singleton
 * **Propósito:** Garantizar que una clase tenga una única instancia global en todo el ciclo de vida del sistema.
@@ -21,7 +21,7 @@
 
 ---
 
-## 🚀 Instrucciones de Ejecución
+##  Instrucciones de Ejecución
 
 Para compilar y ejecutar este proyecto de manera local, asegúrese de tener instalado el **Java Development Kit (JDK)** y siga los pasos a continuación desde su terminal:
 
