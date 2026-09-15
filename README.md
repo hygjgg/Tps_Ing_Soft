@@ -23,7 +23,7 @@
 
 ##  Instrucciones de Ejecución
 
-Para compilar y ejecutar este proyecto de manera local, asegúrese de tener instalado el **Java Development Kit (JDK)** y siga los pasos a continuación desde su terminal:
+Para compilar y ejecutar este proyecto de manera local, debe tener instalado el **Java Development Kit (JDK)** y seguir los pasos a continuación desde su terminal:
 
 1. **Clonar el repositorio:**
    ```bash
